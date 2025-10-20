@@ -114,7 +114,7 @@ EmprestimoLivros/
 
 2. Acesse o diretório do projeto:
    ```bash
-   cd EmprestimoLivros/EmprestimoLivros
+   cd EmprestimoLivros
    ```
 
 3. Restaure os pacotes NuGet:
